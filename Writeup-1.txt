@@ -1,0 +1,17 @@
+Writeup
+
+***Player and Team Requirement Project***
+
+1.First created player.cs Classe
+
+2.Then Created an Interface ITeam.cs file
+
+3.Created a derived class OneDayTeam to implement ITeam interface functionalities
+4.And in Program.cs file
+	Created a menu to prompt the user to perform the required functionality as shown below:
+"Enter 1:To Add Player 2:To Remove Player by Id 3.Get Player By Id 4.Get Player by Name 5.Get All Players:"
+5.Created a switch-case construct to call the required function from OneDayTeam class per user choice
+6.And then pushed the code to the git
+
+
+Git link: https://github.com/Sravankumar1612/Phase1EndProj1
